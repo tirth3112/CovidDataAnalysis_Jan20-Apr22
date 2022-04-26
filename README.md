@@ -1,5 +1,10 @@
 # CovidDataAnalysis_Jan20-Apr22
 
+### Data used for this repository is collected from Our Wolrd In data  databases. To get dataset follow this link : https://ourworldindata.org/covid-deaths
+
+
+
+
 * Experimented with SQL queries to extract a table of death cases and total cases over the world. implemented calculating formula for timeframe and death rate percentage that could be simplified the visualization by 50%.
 
 * generated SQL visualization queries that can be used further in Tableau dashboard creation.
