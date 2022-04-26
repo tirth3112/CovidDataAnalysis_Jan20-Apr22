@@ -23,11 +23,12 @@
 
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+#### Data used for this repository is collected from Our World In data  databases. To get dataset follow this link : https://ourworldindata.org/covid-deaths
 
-### Data used for this repository is collected from Our Wolrd In data  databases. To get dataset follow this link : https://ourworldindata.org/covid-deaths
-
- ### I used data from January 2020 - April 2022. you can adjust how much data you want from the given link above you can adjust the timeframe of data and download it. shown in following Image.
+ #### I used data from January 2020 - April 2022. you can adjust how much data you want from the given link above, you can also adjust the timeframe of data and download it. shown in following Image.
 
 <img src = "https://github.com/tirth3112/CovidDataAnalysis_Jan20-Apr22/blob/main/Images/Range_data.png" width = "700" >
 
@@ -36,14 +37,13 @@
 
 
 
-* Experimented with SQL queries to extract a table of death cases and total cases over the world. implemented calculating formula for timeframe and death rate percentage that could be simplified the visualization by 50%.
+* Experimented with SQL queries to extract tables of death cases and total cases around the world. Developed a formula for timeframe and death rate percentage that could simplify the visualization by 70%.
 
-* generated SQL visualization queries that can be used further in Tableau dashboard creation.
+* Generated SQL visualization queries that can be used further in Tableau dashboard creation.
 
+* Developed a creative Tableau dashboard that displays all Covid impact worldwide from January 2020 to April 2022. Globally, I considered the infection period. Developed visualization with a world map displaying total deaths and cases in a yearly manner.
 
-* Design creative Tableau Dashboard with all Covid impact all over the world from January 2020 to April 2022. I considered the Infection timeframe all over the world. developed visualization with a world map with total deaths and cases in a yearly manner.
-
-* My Tableau Public link is here. You can use this link to get the real Dashboard of this project and also the CSVs which I used in the creation of Dashboard. (https://public.tableau.com/app/profile/tirth7406)
+* My Tableau Public link is here. You can use this link to get the real Dashboard of this project with the all CSVs which I used in visualization of the Dashboard.(https://public.tableau.com/app/profile/tirth7406)
 
 
 
