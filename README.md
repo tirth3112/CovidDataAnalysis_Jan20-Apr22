@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/tirth3112/CovidDataAnalysis_Jan20-Apr22">
     <img src="https://github.com/tirth3112/CovidDataAnalysis_Jan20-Apr22/blob/main/Images/Covid_logo.png" alt="Logo" width="90" height="90">
   </a>
 
@@ -28,7 +28,7 @@
 
 #### Data used for this repository is collected from Our World In data  databases. To get dataset follow this link : https://ourworldindata.org/covid-deaths
 
- #### I used data from January 2020 - April 2022. you can adjust how much data you want from the given link above, you can also adjust the timeframe of data and download it. shown in following Image.
+#### I used data from January 2020 - April 2022. you can adjust how much data you want from the given link above, you can also adjust the timeframe of data and download it. shown in following Image.
 
 <img src = "https://github.com/tirth3112/CovidDataAnalysis_Jan20-Apr22/blob/main/Images/Range_data.png" width = "700" >
 
